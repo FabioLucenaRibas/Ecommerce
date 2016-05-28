@@ -1,2 +1,2 @@
-# Ecommerce
-Projeto Java Corporativo usando JSF e Hibernate
+# Procommerce
+Projeto Java Corporativo usando JSF, Hibernate e PrimeFaces
