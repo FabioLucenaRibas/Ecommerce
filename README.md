@@ -1,2 +1,2 @@
 # Ecommerce
-Projeto Java Corporativo usando JPA
+Projeto Java Corporativo usando JSF e Hibernate
